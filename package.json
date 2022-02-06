@@ -37,5 +37,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DivyanshSingh786/News_App.git"
+  },
+  "author": "Divyansh_Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DivyanshSingh786/News_App/issues"
+  },
+  "homepage": "https://github.com/DivyanshSingh786/News_App#readme"
 }
